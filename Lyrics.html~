@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Cornerstone</title>
+		<h1>Cornerstone</h1><h4>By Arctic Monkeys</h4><a href="https://www.youtube.com/watch?v=LIQz6zZi7R0"><h2>Music Video</h2></a>
+		<hr>
+		<audio controls src="01 Cornerstone.mp3"></audio>
+		<video width="500px" controls src="cornerstone.mp4">
+		</video>
+		<h3>Lyrics:</h3>
+		<pre><h3>[Verse 1]</h3>I thought I saw you in the Battleship
+But it was only a look-a-like
+She was nothing but a vision trick
+Under the warning light
+She was close, close enough to be your ghost
+But my chances turned to toast
+When I asked her if I could call her your name
+
+<h3>[Verse 2]</h3>I thought I saw you in the Rusty Hook
+Huddled up in a wicker chair
+I wandered over for a closer look
+And kissed whoever was sitting there
+She was close, and she held me very tightly
+'Til I asked awfully politely
+"Please, can I call you her name?"
+
+<h3>[Chorus]</h3>And I elongated my lift home
+Yeah, I let him go the long way round
+I smelt your scent on the seatbelt
+And kept my shortcuts to myself
+
+<h3>[Verse 3]</h3>I thought I saw you in the Parrot's Beak
+Messing with the smoke alarm
+It was too loud for me to hear her speak
+And she had a broken arm
+It was close, so close that the walls were wet
+And she wrote it out in Letraset
+"No, you can't call me her name"</pre>
+<img src="download.webp" alt="Mr turner">
+<img src="alex.jpeg" alt="Alex">
+<img src="wow.jpeg" alt="evolution">
+<img src="mrturner.gif" alt="wow">
+	</head>
+</html>

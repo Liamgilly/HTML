@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>My First Website</title>
+	</head>
+	<link rel="icon" type="image.png" href="icon.png" />
+	<body>
+		<h1>This is an H1 Heading</h1>
+		<h4>This is an h4 heading</h4>
+		<p>hello</p>
+		
+		<a href="Lyrics.html">Click me</a>
+		<br>
+		<a href="erm.html" target="_blank" title="Click To find out">Guess what</a>
+		<br>
+		<a href="mailto:liamgill1510@gmail.com">My email</a>
+		<p><b>Bold</b></p>
+		<p><i>Italic</i></p>
+		<p><u>Underlined</u></p>
+		<p><del>Deleted</del></p>
+		<p><big>Big</Big></p>
+		<p><small>small</small></p>
+		<p><sub>subscripted</sub></p>
+		<p><sup>Supscripted</sup></p>
+		<p><tt>monospaced</tt></p>
+		<p><mark style="background-color: lightskyblue">Marked</mark></p>
+		<h1><span style="background-image: alex.jpeg">This is a span title</span></h1>
+		<h1><div>This is a div title </div></h1> 
+		
+	</body>
+</html>
